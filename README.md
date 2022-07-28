@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MIN-JING
+- 👀 I’m interested in ETF.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on Fintech.
+- 📫 How to reach me : www.linkedin.com/in/su-min-jing
