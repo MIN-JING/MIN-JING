@@ -12,6 +12,6 @@
 - 👀 Interested in Capitalization-Weighted Index ETFs.
 - 📫 How to reach me : [<img src="https://user-images.githubusercontent.com/35361808/181880436-e6ba7a9c-ef70-4c12-bb5e-4ffe29b65478.png" height="22" /> www.linkedin.com/in/su-min-jing](https://www.linkedin.com/in/su-min-jing)
 
-<img src="https://github.com/MIN-JING/MIN-JING/blob/main/Hello_World.png" height="300" />
+<img src="https://github.com/MIN-JING/MIN-JING/blob/main/image_MovieCritics/Hello_World.png" height="300" />
 
 icons created by [Freepik - Flaticon](https://www.flaticon.com/)
